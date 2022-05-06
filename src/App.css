@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+h2{
+  font-size: 30px;
+}
+h2 span{
+  font-weight: bolder;
+  font-family: system-ui;
+  font-size: 26px;
+}
+
+.cardBox{
+  height: auto;
+  width: 500px;
+  margin: 40px auto;
+  padding: 40px;
+  box-shadow: 0 0 21px #000;
+}
+
+.tempCardBox{
+  height: auto;
+  width: 300px;
+  margin: 40px auto;
+  padding: 40px;
+  box-shadow: 0 0 21px #000;
+}
